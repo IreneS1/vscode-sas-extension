@@ -24,7 +24,7 @@ Ask, Find, and Share on the VS Code SAS Extension on the [SAS Programmers Commun
 
 [SAS Programming documentation](https://go.documentation.sas.com/doc/en/pgmsascdc/v_048/lepg/titlepage.htm)
 
-### FAQs
+### FAQ s
 
 Please check the [FAQ](https://sassoftware.github.io/vscode-sas-extension/faq) page for some common questions.
 
